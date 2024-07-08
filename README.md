@@ -1,7 +1,9 @@
 #Restaurant Billing Application
+
 The Restaurant Billing Application is designed to streamline the payment management process in restaurants. This application allows restaurants to record customer orders, calculate total costs, and print or display bills for customers.
 
 #Key Features
+
 Order Recording: Enables servers to easily record food and beverage orders from customers.
 
 Automatic Calculation: Calculates the total order cost based on menu prices and quantities ordered.
@@ -39,6 +41,7 @@ Usage
 Once the application is launched, users can perform various actions such as recording orders, calculating total bills, and printing bills for customers.
 
 #Contribution
+
 If you wish to contribute to the development of this application, please follow these steps:
 
 Fork this repository.
