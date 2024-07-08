@@ -9,6 +9,7 @@ Automatic Calculation: Calculates the total order cost based on menu prices and 
 Bill Printing: Provides an option to print bills directly from the application for transaction convenience.
 
 Installation
+
 System Requirements
 Make sure your system meets the following requirements before proceeding with the installation:
 
